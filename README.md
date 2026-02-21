@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Saish
+## Hi there 👋, I'm Saish Borkar
 - 🔭 I’m currently working on Python projects using Django
 - 🌱 I’m currently learning some Data Science & AI stuff
 - ⚡ Skills: Python, Django, Machine Learning, Data Analysis 
